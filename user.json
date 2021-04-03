@@ -1,0 +1,14 @@
+{
+    "id": "101544088317204132234", 
+    "email": "buianhduck2@gmail.com", 
+    "verified_email": "True", 
+    "name": "Đức Bùi Anh", 
+    "given_name": "Đức", 
+    "family_name": "Bùi Anh", 
+    "picture": "https://lh3.googleusercontent.com/a-/AOh14GgJtiUJi9eOmtE7EMqa1z6dFMA2v78mnp_PiTP0Sg=s96-c", 
+    "locale": "vi",
+    "schema": "server = smtplib.SMTP("smtp.gmail.com", 587)
+    server.starttls(),
+    server.login("buianhduck2@gmail.com", "abc13579"),
+    server.sendmail("buianhduck2@gmail.com",email,subject,msg)"
+} 
